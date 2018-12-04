@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 This is a glorified text file
+
+now we are going to edit the file some more.
